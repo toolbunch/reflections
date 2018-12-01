@@ -10,6 +10,8 @@ Staging area is like a work area where the items that we are thinking of and wor
 
 The value is that it creates a logical step before we save the data.
 
+I started having trouble with subl, or actually commit as the subleditor is not getting loaded. So I am going to try to reset my configl.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
