@@ -1,7 +1,14 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+It will create a respository but will not put anything in the repository. This is the start. You need to initialize it so that there is a starting point for inputting data into the repository. In the initial state there is nothing.
+
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+Staging area is like a work area where the items that we are thinking of and working on are together. Teh working directory is where we are, and the staging area is what we would like to push in.
+
+The value is that it creates a logical step before we save the data.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
