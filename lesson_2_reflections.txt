@@ -12,11 +12,17 @@ The value is that it creates a logical step before we save the data.
 
 I started having trouble with subl, or actually commit as the subleditor is not getting loaded. So I am going to try to reset my configl.
 
+I figured out that I had to use the full path to sublime in the git config command. As it said in the notes for the configuration. It does not work for some people.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+We can add only those changes that are relevant to the logical change. That way we have unrelated stuff in the working directory but only those files updated in staging will be updated.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Branches are useful to separate out things from the main line and try out things. With a branch each feature that I am working on can start out as an experiment and then I will be able to move that experiment to the mainline. I will be able to go back to a feature and see what I did to create it in the first place.
 
 How do the diagrams help you visualize the branch structure?
 
