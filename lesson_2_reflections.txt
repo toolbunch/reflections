@@ -26,6 +26,9 @@ Branches are useful to separate out things from the main line and try out things
 
 How do the diagrams help you visualize the branch structure?
 
+The diagram helps differentiate between teh mainline and the branches that are being worked on. It also is cool because you can work on a new feature in a branch and only when it is good enoug to send out will you merge it to the main.
+
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
