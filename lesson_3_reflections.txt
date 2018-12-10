@@ -15,3 +15,7 @@ A branch is a branch of the current edits that you are working on. It is a copy 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 This will allow us to have the information available if we are going to be offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would send files by email. But that would be cumbersone. There wouldnt be a single source of truth.
